@@ -1,0 +1,2 @@
+git config --global http.proxy http://mivyamoiseev:xid123MTPP_@ms-mwg.vimpelcom.ru:9090
+git config --global https.proxy http://mivyamoiseev:xid123MTPP_@ms-mwg.vimpelcom.ru:9090
